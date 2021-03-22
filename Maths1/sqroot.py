@@ -2,6 +2,5 @@
 
 import math
 print("Program to calculate the Square root and absolute Value")
-num = eval(input("Enter a number: "))
 print(math.sqrt(num))
 print(math.ceil(num))
